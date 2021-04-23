@@ -1,1 +1,1 @@
-This project was used to implement a keypad based door lock and unlock system using the 8051 microcontroller.
+Used the 8051 microcontroller to implement a door locking/unlocking system using keypad based password input. 
